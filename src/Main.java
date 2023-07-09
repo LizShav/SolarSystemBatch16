@@ -11,5 +11,11 @@ public class Main {
         AdamX.name="poya";
         AdamX.temp="12344231 celsius";
         AdamX.size="32942Km";
+
+        Planet2 halima=new Planet2();
+        halima.name="polo";
+        halima.color="blue";
+        halima.size="2.4cm";
+        halima.temp="40celsius";
     }
 }
