@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cb1468-18f7-4ff0-80d6-d25271569ad7" name="Changes" comment="" />
+    <list default="true" id="49cb1468-18f7-4ff0-80d6-d25271569ad7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Planet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/lizco/OneDrive/Desktop/Adam/SolarSystemBatch16"
+    "last_opened_file_path": "C:/Users/lizco/OneDrive/Desktop/TeamLeadX/SolarSystemBatch16"
   }
 }]]></component>
   <component name="RunManager">

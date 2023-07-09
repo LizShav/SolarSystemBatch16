@@ -12,11 +12,19 @@ public class Main {
         AdamX.temp="12344231 celsius";
         AdamX.size="32942Km";
 
+
         Planet1 xeon=new Planet1();
         xeon.name="neon";
         xeon.color="pink";
         xeon.temp="45celsius";
         xeon.size="1cm";
         
+
+        Planet2 halima=new Planet2();
+        halima.name="polo";
+        halima.color="blue";
+        halima.size="2.4cm";
+        halima.temp="40celsius";
+
     }
 }
